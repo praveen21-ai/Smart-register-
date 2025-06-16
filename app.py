@@ -1,4 +1,3 @@
-
 from flask import Flask, render template
 
 app Flask (_name_)
